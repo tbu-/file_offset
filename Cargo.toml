@@ -1,0 +1,8 @@
+[package]
+name = "file_offset"
+version = "0.1.0"
+authors = ["Tobias Bucher <tobiasbucher5991@gmail.com>"]
+
+description = "Atomically read and write files at given offsets"
+repository = "https://github.com/tbu-/file_offset"
+license = "MIT/Apache-2.0"
