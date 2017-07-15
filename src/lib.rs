@@ -11,7 +11,6 @@
 //! let f = File::open("src/lib.rs").unwrap();
 //! f.read_offset(&mut buffer, 3);
 //! print!("{}", str::from_utf8(&buffer).unwrap());
-//! panic!();
 //! ```
 
 use std::fs::File;
